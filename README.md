@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gaurav Adhikari</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<div align="center">
+    <img src="https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile!" alt="Profile Header Image" style="border-radius: 10px; margin-bottom: 20px;" />
+</div>
 
+<!-- Add an image or GIF aligned to the right -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" style="border-radius: 10px; margin-left: 20px;" />
+
+<div align="center">
+    <h2>A passionate Developer from Nepal</h2>
+</div>
 - 🔭 I’m currently working on **Giga Info Soft Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Python**
