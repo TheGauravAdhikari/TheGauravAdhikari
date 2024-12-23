@@ -11,13 +11,13 @@
 </div>
 - 🔭 I’m currently working on **Giga Info Soft Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👯 I’m looking to collaborate on **Gigaschoolerp**
 
 - 📝 I regularly write articles on [https://www.noticeboardnepal.com/](https://www.noticeboardnepal.com/)
 
-- 💬 Ask me about **MERN, Python**
+- 💬 Ask me about **ASP.NET**
 
 - 📫 How to reach me **adhikarigaurav87@gmail.com**
 
