@@ -9,11 +9,11 @@
 <div align="center">
     <h2>A passionate Developer from Nepal</h2>
 </div>
-- 🔭 I’m currently working on **Giga Info Soft Pvt. Ltd.**
+- 🔭 I’m currently working on **Notice Board Nepal.**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **NEXT JS**
 
-- 👯 I’m looking to collaborate on **Gigaschoolerp**
+- 👯 I’m looking to collaborate on **Notice Board Nepal**
 
 - 📝 I regularly write articles on [https://www.noticeboardnepal.com/](https://www.noticeboardnepal.com/)
 
