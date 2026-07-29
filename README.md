@@ -17,9 +17,6 @@
 
 - 📝 I regularly write articles on [https://www.noticeboardnepal.com/](https://www.noticeboardnepal.com/)
 
-- 💬 Ask me about **ASP.NET**
-
-- 📫 How to reach me **adhikarigaurav87@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
